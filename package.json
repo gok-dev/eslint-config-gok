@@ -1,0 +1,42 @@
+{
+  "name": "eslint-config-gok",
+  "version": "1.0.0",
+  "description": "ESLint config para projetos JavaScript, usado na Gok",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint -c index.js ./",
+    "test": "node --harmony ./node_modules/.bin/tape test/unit/*.js | tap-difflet"
+  },
+  "keywords": [
+    "eslint",
+    "lint",
+    "config",
+    "plugin",
+    "gok",
+    "shared"
+  ],
+  "author": "Julio Augusto <julio.sousa@gok.digital>",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "peerDependencies": {
+    "babel-eslint": "10.1.0",
+    "eslint": "7.4.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "10.1.0",
+    "eslint": "7.4.0",
+    "tap-difflet": "0.7.2",
+    "tape": "5.0.1",
+    "testlint": "1.0.1"
+  }
+}

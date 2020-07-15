@@ -13,7 +13,7 @@
   ],
   "scripts": {
     "lint": "eslint -c index.js ./",
-    "test": "node --harmony ./node_modules/.bin/tape test/unit/*.js | tap-difflet"
+    "test": "node --harmony ./node_modules/.bin/tape __tests__/unit/*.js | tap-difflet"
   },
   "keywords": [
     "eslint",

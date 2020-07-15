@@ -5,6 +5,8 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/gok-dev/eslint-config-gok.svg)](https://github.com/gok-dev/eslint-config-gok/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/gok-dev/eslint-config-gok.svg)](https://github.com/gok-dev/eslint-config-gok/commits/master)
 [![NPM](https://img.shields.io/npm/l/eslint-config-gok.svg)](https://choosealicense.com/licenses/mit)
+[![Maintainability](https://api.codeclimate.com/v1/badges/11e6ced282592869e557/maintainability)](https://codeclimate.com/github/gok-dev/eslint-config-gok/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/11e6ced282592869e557/test_coverage)](https://codeclimate.com/github/gok-dev/eslint-config-gok/test_coverage)
 
 <h1 align="center">ESLint Config Gok</h1>
 

@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/gok-dev/eslint-config-gok.git"
   },
   "files": [
     "index.js"
@@ -25,9 +25,9 @@
   ],
   "author": "Julio Augusto <julio.sousa@gok.digital>",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/gok-dev/eslint-config-gok/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/gok-dev/eslint-config-gok#readme",
   "peerDependencies": {
     "babel-eslint": "10.1.0",
     "eslint": "7.4.0"
